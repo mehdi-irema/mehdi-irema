@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Mahdi Ameri (People and friends usually call me Mehdi)
 - 👀 I’m interested in AI and computer stuff!
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning Projects and Python related stuff.
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m planning and working hard towards a better future for myself.
 - 📫 How to reach me: You can contact me via my linkedin page https://www.linkedin.com/in/mahdi-ameri-570808209/ 
 
 <!---
