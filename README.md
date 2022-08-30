@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad Mahdi Ameri (People and friends usually call me Mehdi)
+- 👋 Hi, I’m Mohammad Mahdi Ameri Daragheh (People and friends usually call me Mehdi)
 - 👀 I’m interested in AI and computer stuff!
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m planning and working hard towards a better future for myself.
