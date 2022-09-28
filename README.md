@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad Mahdi Ameri Daragheh (People and friends usually call me Mehdi)
-- 👀 I’m interested in AI and computer stuff!
-- 🌱 I’m currently learning Deep Learning
+- 👋 Hi, I’m MohammadMahdi AmeriDaragheh (people and friends usually call me Mehdi) and one hint is to read my profile last name backwards.
+- 👀 I’m interested in industrial engineering, applied ML and Deep Learning!
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m planning and working hard towards a better future for myself.
 - 📫 How to reach me: You can contact me via my linkedin page https://www.linkedin.com/in/mahdi-ameri-570808209/ 
 
