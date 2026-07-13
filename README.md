@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mohammadmahdi Ameridaragheh (people and friends usually call me Mehdi) and one hint is to read my profile last name **backwards**.
-- 👀 I’m interested in industrial engineering, applied ML and Deep Learning!
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m planning and working hard towards a better future for myself.
-- 📫 How to reach me: You can contact me via my linkedin page (https://www.linkedin.com/in/mohammadmahdi-ameridaragheh-570808209/)
+- 👋 Hi, I’m Mahdi Ameri.
+- 👀 I’m interested in statistics, industrial engineering and machine learning!
+- 🌱 I’m currently a master's student in Statistical Sciences (Data Science Curriculum) at the University of Bologna.
+- 💞️ I’m working on my GitHub to make a better presentation of all the work I have done before.
+- 📫 How to reach me: You can contact me via my linkedin page (https://www.linkedin.com/in/mahdi-ameri-570808209/)
 
 <!---
 mehdi-irema/mehdi-irema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
