@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mahdi Ameri.
-- 👀 I’m interested in statistics, industrial engineering and machine learning!
-- 🌱 I’m currently a master's student in Statistical Sciences (Data Science Curriculum) at the University of Bologna.
+- 👋 Hi, I’m M. Mahdi Ameridaragheh.
+- 👀 I’m interested in machine learning, data science and statistics!
+- 🌱 I’m currently a double degree master's student in Statistical Sciences (Data Science Curriculum) at the University of Bologna.
 - 💞️ I’m working on my GitHub to make a better presentation of all the work I have done before.
 - 📫 How to reach me: You can contact me via my linkedin page (https://www.linkedin.com/in/mahdi-ameri-570808209/)
 
