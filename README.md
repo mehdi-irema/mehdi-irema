@@ -5,6 +5,7 @@ I'm an MSc student in **Statistical Sciences (Data Science)** at the University 
 ### What I'm working on
 - **MSc thesis (USI):** multimodal Concept Bottleneck Models with continuous concepts, recognising affect and cognitive load from wrist-worn and smart-glasses signals.
 - **[Neural Wave 2026 hackathon (USI)](https://github.com/mehdi-irema/garment-packshot-pipeline):** with my team I built a pipeline that turns amateur phone photos of garments into studio packshots. It generates several candidates with a hosted image-editing model and keeps the best one using colour consensus in Lab space plus symmetry and tilt scores of the garment mask.
+- **[Spam detection in R](https://github.com/mehdi-irema/spam-detection-R):** a reproducible comparison of ten supervised learning methods (boosting, random forests, SVM, LASSO, KNN and more) on the Spambase data, each tuned by cross-validation. Boosting reaches about 5% test error.
 
 ### Background
 - BSc in Industrial Engineering (ranked 5th of 83)
