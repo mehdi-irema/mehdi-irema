@@ -25,4 +25,4 @@ I'm an MSc student in **Statistical Sciences (Data Science)** at the University 
 Python (PyTorch, TensorFlow/Keras, scikit-learn, pandas, NumPy) · R (igraph, glmnet, randomForest) · SAS · Tableau · Jupyter · Git
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/mahdi-ameri-570808209/)
+[LinkedIn](https://www.linkedin.com/in/mahdi-ameri-570808209/) · [mahdi.ameri130@gmail.com](mailto:mahdi.ameri130@gmail.com)
