@@ -2,10 +2,18 @@
 
 I'm an MSc student in **Statistical Sciences (Data Science)** at the University of Bologna, currently at **USI Lugano** on the UNIBO–USI double degree. I like problems where careful statistics meets modern machine learning, especially **interpretable ML for health and wearable-sensor data**.
 
-### What I'm working on
+### Currently
 - **MSc thesis (USI):** multimodal Concept Bottleneck Models with continuous concepts, recognising affect and cognitive load from wrist-worn and smart-glasses signals.
-- **[Neural Wave 2026 hackathon (USI)](https://github.com/mehdi-irema/garment-packshot-pipeline):** with my team I built a pipeline that turns amateur phone photos of garments into studio packshots. It generates several candidates with a hosted image-editing model and keeps the best one using colour consensus in Lab space plus symmetry and tilt scores of the garment mask.
-- **[Spam detection in R](https://github.com/mehdi-irema/spam-detection-R):** a reproducible comparison of ten supervised learning methods (boosting, random forests, SVM, LASSO, KNN and more) on the Spambase data, each tuned by cross-validation. Boosting reaches about 5% test error.
+
+### Selected projects
+
+| Project | What | Stack |
+|---|---|---|
+| [**garment-packshot-pipeline**](https://github.com/mehdi-irema/garment-packshot-pipeline) | Neural Wave 2026 hackathon (team). Turns amateur phone photos of garments into studio packshots: multi-view generative editing, then picks the best candidate by colour consensus in Lab space and mask symmetry and tilt. | Python · NumPy · scikit-image |
+| [**spam-detection-R**](https://github.com/mehdi-irema/spam-detection-R) | Ten supervised learners on the Spambase data, all tuned by cross-validation. Boosting reaches about 5% test error. | R · gbm · randomForest · glmnet · e1071 |
+| [**uranium-score-driven-model**](https://github.com/mehdi-irema/uranium-score-driven-model) | A robust Student-t score-driven (DCS-t) model vs ARIMA for the global uranium price. Multi-start MLE finds a 100-point AIC improvement. | R · own MLE implementation |
+| [**les-miserables-network-analysis**](https://github.com/mehdi-irema/les-miserables-network-analysis) | Network analysis of a character co-appearance graph: centrality, clustering, community detection, assortativity. | R · igraph |
+| [**deep-learning-specialization**](https://github.com/mehdi-irema/deep-learning-specialization) | From NumPy networks built from scratch to CNNs, sequence models and Transformers. | Python · TensorFlow/Keras |
 
 ### Background
 - BSc in Industrial Engineering (ranked 5th of 83)
@@ -13,7 +21,7 @@ I'm an MSc student in **Statistical Sciences (Data Science)** at the University 
 - Interested in player-behaviour analytics and recommender systems
 
 ### Tools
-Python (PyTorch, TensorFlow/Keras, scikit-learn, pandas, NumPy) · R · Jupyter · Git
+Python (PyTorch, TensorFlow/Keras, scikit-learn, pandas, NumPy) · R (igraph, glmnet, randomForest) · SAS · Tableau · Jupyter · Git
 
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/mahdi-ameri-570808209/)
