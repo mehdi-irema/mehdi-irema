@@ -9,6 +9,7 @@ I'm an MSc student in **Statistical Sciences (Data Science)** at the University 
 
 | Project | What | Stack |
 |---|---|---|
+| [**breast-cancer-metastasis-prediction**](https://github.com/mehdi-irema/breast-cancer-metastasis-prediction) | BSc thesis: predicts metastasis or recurrence from 3,753 clinical records (Motamed Cancer Institute) with seven ML models, using a leakage-safe pipeline with SMOTE-ENN. Data not shared. | Python · scikit-learn · imbalanced-learn |
 | [**garment-packshot-pipeline**](https://github.com/mehdi-irema/garment-packshot-pipeline) | Neural Wave 2026 hackathon (team). Turns amateur phone photos of garments into studio packshots: multi-view generative editing, then picks the best candidate by colour consensus in Lab space and mask symmetry and tilt. | Python · NumPy · scikit-image |
 | [**spam-detection-R**](https://github.com/mehdi-irema/spam-detection-R) | Ten supervised learners on the Spambase data, all tuned by cross-validation. Boosting reaches about 5% test error. | R · gbm · randomForest · glmnet · e1071 |
 | [**uranium-score-driven-model**](https://github.com/mehdi-irema/uranium-score-driven-model) | A robust Student-t score-driven (DCS-t) model vs ARIMA for the global uranium price. Multi-start MLE finds a 100-point AIC improvement. | R · own MLE implementation |
@@ -17,7 +18,7 @@ I'm an MSc student in **Statistical Sciences (Data Science)** at the University 
 
 ### Background
 - BSc in Industrial Engineering (ranked 5th of 83)
-- Research assistant: ML-based thesis on cancer metastasis prediction
+- BSc thesis: machine learning for breast-cancer metastasis prediction (supervised by Dr. Farnaz Barzinpour, IUST)
 - Interested in player-behaviour analytics and recommender systems
 
 ### Tools
